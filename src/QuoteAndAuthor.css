@@ -1,0 +1,41 @@
+#quote-and-author{
+    position:absolute;
+    height:130px;
+    width:90%;
+    top:2em;
+    left:5%;
+}
+#quote{
+    text-align:center;
+    clear:both;
+    color:pink;
+    /* transition-duration:2s; */
+    line-height:1.2em;
+}
+#author{
+    float:right;
+    color:pink;
+    transition-duration:2s;
+}
+
+/* animation */
+
+/* enter exit */
+.fade-enter{
+    opacity:0;
+}
+.fade-enter-active{
+    opacity:1;
+    transition:opacity 2s ease 1s;
+}
+.fade-exit{
+    opacity:1;
+}
+.fade-exit-active{
+    opacity:0;
+    transition:opacity 2s ease;
+}
+.fade-exit-done{
+    opacity:0;
+}
+
