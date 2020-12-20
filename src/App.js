@@ -85,10 +85,10 @@ const App = () => {
                         >
                             <div id="quote-author">
                                 <div id="quote" style={textStyle}>
+                                    <Quote value={prevQuote}>
                                     <span>
                                         {quoteLeftIcon}
                                     </span>
-                                    <Quote value={prevQuote}>
                                         {quote}
                                     </Quote>
                                 </div>
