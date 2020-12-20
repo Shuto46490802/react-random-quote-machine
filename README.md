@@ -1,3 +1,13 @@
+# Built With 
+
+* [React.js](https://github.com/facebook/create-react-app)
+* [Font Awesome](https://fontawesome.com/)
+* [CssTransition Group](https://reactcommunity.org/react-transition-group/)
+
+# Demo
+
+View project at: [http://Shuto46490802.github.io/react-random-quote-machine](http://Shuto46490802.github.io/react-random-quote-machine)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
